@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<especie imgPath="E01">
+		<nome>Cobra-de-duas-cabe�as</nome>
+		<descricao>Apresenta corpo cilíndrico, preto com manchas brancas. Não possui patas, característica que as leva a ser confundidas com serpentes. Por isso, é popularmente conhecida como cobra-de-duas-cabeças. Por ter hábito subterrâneo, apresenta olhos pequenos e alimenta-se de pequenos invertebrados.</descricao>
+	</especie>
+	<especie imgPath="E02">
+		<nome>Aranha-espinhosa</nome>
+		<descricao>Aranha com projeções abdominais muito fortes, que são confundidas com espinhos ou chifres. Essas projeções servem para que a aranha não seja predada por vespas solitárias. Constroem teias e se alimentam de insetos alados. Apresentam coloração chamativa e as fêmeas são bem maiores que os machos.</descricao>
+	</especie>
+	<especie imgPath="E03">
+		<nome>Aranha-de-solo</nome>
+		<descricao>Aranha de grande porte com oito olhos e carapaça de cerca de 5cm de comprimento. Dentro dos artrópodes é considerada uma predadora de topo, podendo predar pequenos vertebrados</descricao>
+	</especie>
+	<especie imgPath="E04">
+		<nome>Tenedos hoeferi</nome>
+		<descricao>Espécie típica de serapilheira. Não fazem teias, utilizando estratégias de busca ativa para capturar suas presas. Pode ser reconhecida pelo característico padrão de manchas brancas no abdômen e por detalhes da morfologia da genitália. Dentro do gênero, é espécie mais comum na Amazônia Brasileira, tendo sido registrada em diversas localidades nos estados do Pará, Amapá, Amazonas e Acre.</descricao>
+	</especie>
+	<especie imgPath="E05">
+		<nome>Cabe�a-encarnada</nome>
+		<descricao>Mede cerca de 10cm de comprimento e pesa aproximadamente 12g. Utiliza-se de pequenos vôos para alcançar frutos de que se alimenta. Essa espécie realiza uma elaborada corte com exibições das partes coloridas para atrair as fêmeas. Ocorre em quase toda a Amazônia ao sul do Rio Amazonas e com uma população disjunta na Mata Atlântica.</descricao>
+	</especie>
+	<especie imgPath="E06">
+		<nome>Sa�-azul</nome>
+		<descricao>Mede aproximadamente 15cm de comprimento. Espécie de hábito gregário vivendo em pequenos bandos de 2 a 4 indivíduos. Frequentemente associados a bandos mistos nas copas de árvores. Alimenta-se de frutas, insetos e néctar. Ocorre desde o norte da Colômbia até o Uruguai, e em todo o Brasil.</descricao>
+	</especie>
+	<especie imgPath="E07">
+		<nome>Beija-flor-tesoura-verde</nome>
+		<descricao>Esse beija-flor mede 10cm de comprimento aproximadamente e pesa cerca de 6g. Alimenta-se de pequenos insetos e néctar. Tem ampla distribuição no Brasil habitando matas úmidas, várzeas e capoeiras antigas.</descricao>
+	</especie>
+	<especie imgPath="E08">
+		<nome>Uirapuru-verdadeiro</nome>
+		<descricao>Mede em torno de 15 centímetros de comprimento e pesa aproximadamente 20g. Espécie insetívora que normalmente acompanha as formigas-correição no interior de florestas de terra firme e várzeas. Possui um canto melódico o que fez desse pássaro um dos mais famosos e místicos do país. Ocorre em quase toda a Amazônia.</descricao>
+	</especie>
+	<especie imgPath="E09">
+		<nome>Estalador-do-norte</nome>
+		<descricao>Mede aproximadamente 10cm de comprimento e pesa cerca de 15g. Tem o hábito de bater o bico provocando um estalo, daí a origem de seu nome popular. Habita o chão das matas de terra firme em busca de artrópodes, sempre solitário ou aos pares. Ocorre em quase toda a Amazônia até o norte do Mato Grosso e o oeste do Maranhão.</descricao>
+	</especie>
+	<especie imgPath="E10">
+		<nome>Percevejo-do-mato</nome>
+		<descricao>Apresentam o corpo arredondado e achatado dorso-ventralmente, de 12 a 15mm de comprimento. Possuem coloração marrom, com nítida pontuação escura. Cabeça grande, com aparelho bucal inserido atrás da linha dos olhos. Várias espécies deste gênero vivem em grupos na base dos frutos jovens de cacaueiros.</descricao>
+	</especie>
+	<especie imgPath="E11">
+		<nome>Percevejo-verde</nome>
+		<descricao>Corpo ovalado de 15 a 20mm de comprimento e coloração geral verde clara. Vivem em plantas de baixo e médio porte que crescem na área de transição entre o campo e a mata. Estão fortemente associadas a espécies das famílias Passifloraceae e Leguminosae. Ocorre em grande parte do Brasil e algumas espécies são consideradas pragas da cultura de soja no país.</descricao>
+	</especie>
+	<especie imgPath="E12">
+		<nome>Percevejo-do-campo</nome>
+		<descricao>Corpo ovalado de 6 a 9mm de comprimento. Possuem coloração dorsal negra com uma área amarelada na parte anterior e algumas manchas brancas esparsas e coloração ventral verde clara. Vivem em áreas abertas onde se alimentam de sementes de espécies de capins e podem ser encontradas em plantações de arroz. Ocorrem por todo o Brasil e são bons indicadores de áreas antropizadas.</descricao>
+	</especie>
+	<especie imgPath="E13">
+		<nome>Percevejo-do-campo</nome>
+		<descricao>Corpo alongado e estreito de 8 a 12mm de comprimento. Possui coloração marrom clara, com uma área amarelada na parte dorsal que lembra um “Y”, característica que dá nome à espécie. Apresenta dimorfismo sazonal de cor: indivíduos que nascem no final do verão são mais pálidos e não apresentam o “Y” muito visível, já os indivíduos que nascem na primavera apresentam coloração marcante e um “Y” amarelo. Vive em áreas de campo e se alimenta de sementes de capim. Devido a esta característica, se tornou uma importante praga de arroz no Brasil, principalmente na região Sul.</descricao>
+	</especie>
+	<especie imgPath="E14">
+		<nome>Mabuya nigropunctata</nome>
+		<descricao>Corpo cilíndrico e alongado, com membros bem desenvolvidos e cauda longa. Apresenta dorso marrom com faixa lateral escura de cada lado do corpo. Prefere os locais moderadamente ensolarados e utiliza como abrigo e lugar de reprodução espaços sob casca de árvores, buracos sob rochas, troncos caídos e cupinzeiros. Sua dieta é composta por pequenos invertebrados.</descricao>
+	</especie>
+	<especie imgPath="E15">
+		<nome>Calango</nome>
+		<descricao>Apresenta coloração esverdeada no dorso e cabeça e ombros marrons, com pequenos pontos negros. A parte dorsal e lateral das patas posteriores, assim como a parte posterior da cauda, tem coloração azulada. Possui cauda longa, corpo e membros robustos. O item mais importante de sua dieta são os invertebrados.</descricao>
+	</especie>
+	<especie imgPath="E16">
+		<nome>Tamaquar�</nome>
+		<descricao>Lagarto de pequeno porte com coloração marrom ou cinza escuro que favorece sua camuflagem. Apresenta a cabeça bem destacada do corpo, membros posteriores bem delgados e alongados com cauda longa e afilada. Encontrado em florestas primárias e secundárias próximo a cursos d’água e florestas de igapó. Escapa de predadores saltando na água e por isso desenvolveu uma boa habilidade natatória.</descricao>
+	</especie>
+	<especie imgPath="E17">
+		<nome>Tamaquar�</nome>
+		<descricao>Apresentam coloração dorsal verde com manchas escuras de tamanhos variados. A cauda apresenta uma coloração cinza com manchas transversais claras. Possui membros desenvolvidos, o que facilita sua locomoção em árvores.</descricao>
+	</especie>
+	<especie imgPath="E18">
+		<nome>Anolis punctatus</nome>
+		<descricao>Lagarto de pequeno porte com dorso esverdeado e pequenos pontos brancos formando listras transversais, nem sempre visíveis. Uma característica marcante desses lagartos é apresentar uma prega alaranjada na região da garganta. O principal item de sua dieta são os invertebrados.</descricao>
+	</especie>
+	<especie imgPath="E19">
+		<nome>Piaba</nome>
+		<descricao>Espécie de pequeno porte com menos de 10cm de comprimento padrão (ponta do focinho ao inicio da nadadeira caudal). Segundo trabalhos de pesquisadores do INPA, a espécie costuma ficar parada em meio às plantas submersas. Possui a capacidade de mudar de cor conforme o tipo de ambiente e variações de luz no igarapé, como tática de defesa e, principalmente, de caça.</descricao>
+	</especie>
+	<especie imgPath="E20">
+		<nome>Piaba</nome>
+		<descricao>Apresenta faixa horizontal escura sobre o corpo e uma mancha vermelha logo acima desta faixa. É passível de ser explorada legalmente como espécie ornamental ou de aquariofilia. Algumas espécies do gênero apresentam um complexo sistema de acasalamento onde macho e fêmea saltam fora da água até as folhas próximas da superfície, onde depositam e fecundam seus ovos.</descricao>
+	</especie>
+	<especie imgPath="E21">
+		<nome>Peixe-l�pis</nome>
+		<descricao>Apresentam três faixas longitudinais escuras, conferindo grande beleza e por conseqüência adquirindo grande importância na aquariofilia.</descricao>
+	</especie>
+	<especie imgPath="E22">
+		<nome>Branquinha</nome>
+		<descricao>Não possuem dentes, assim como as outras espécies da família. É uma espécie detritívora, habitante dos fundos dos rios com pouca correnteza.</descricao>
+	</especie>
+	<especie imgPath="E23">
+		<nome>Candiru-a�u</nome>
+		<descricao>Pode ser distinguido de outros membros do gênero pelo padrão da coloração, composição dos dentes e a presença de linha lateral completa. A ocorrência na bacia do Rio Urucu amplia a distribuição dessa espécie para o Brasil, sendo os registros anteriores somente para o Alto Rio Negro na Venezuela.</descricao>
+	</especie>
+	<especie imgPath="E24">
+		<nome>Peixe-borboleta</nome>
+		<descricao>Os membros dessa família possuem um corpo comprimido com regiões peitoral e abdominal circulares. Esta área de seu corpo contém um grupo de músculos peitorais bem desenvolvidos que podem compor 25% de seu peso. Esses músculos são importantes na fuga contra os predadores, permitindo que a espécie salte pequenas distâncias fora da água. Espécie muito popular no aquarismo. Alimenta-se somente perto da superfície, principalmente de insetos terrestres alados.</descricao>
+	</especie>
+	<especie imgPath="E25">
+		<nome>Tra�ra</nome>
+		<descricao>Essa família tem como característica marcante a presença de dentes caniniformes, a ausência de nadadeira adiposa e uma nadadeira caudal arredondada. As traíras são carnívoras, com comportamento sedentário e ampla distribuição na América do Sul e Central. Entre os especialistas não há consenso quanto à taxonomia dentro do gênero Hoplias, com divergências sobre o número de espécies.</descricao>
+	</especie>
+	<especie imgPath="E26">
+		<nome>Aracu</nome>
+		<descricao>Apresenta coloração amarelada, com 8 ou 9 faixas escuras transversais sobre o corpo e três faixas na cabeça. A região inferior da cabeça é geralmente avermelhada e as nadadeiras são amareladas. Em geral as espécies da família são onívoras, com tendência à carnivoria, consumindo principalmente insetos. São encontradas nas margens de rios, em locais com fundo arenoso e com pedras. São importantes para a pesca de subsistência local.</descricao>
+	</especie>
+	<especie imgPath="E27">
+		<nome>Piaba</nome>
+		<descricao>Esta espécie tem como característica marcante a presença de uma mancha escura alongada horizontalmente. Poucos dados ecológicos estão disponíveis, sabendo-se somente que se alimentam de insetos e pequenos peixes.</descricao>
+	</especie>
+	<especie imgPath="E28">
+		<nome>Cachorrinho-de-padre</nome>
+		<descricao>Esta espécie apresenta manchas arredondadas sobre o corpo. Membros do gênero estão presentes em rios de médio porte (5m de largura), de águas claras ou levemente turvas e de corredeira moderada.</descricao>
+	</especie>
+	<especie imgPath="E29">
+		<nome>Thalassophryne amazonica</nome>
+		<descricao>Os peixes do gênero possuem um dos mais perfeitos aparatos de veneno, permitindo que seja injetado sob pressão. Possuem as nadadeiras dorsal, caudal e anal contínuas, como se fossem uma. Vivem no fundo areno-lodoso, em águas lentas de até 1m de profundidade.</descricao>
+	</especie>
+	<especie imgPath="E30">
+		<nome>Cobra-de-duas-cabe�as</nome>
+		<descricao>Apresentam alternância de anéis pretos e vermelhos, característica que faz ser confundida com uma cobra coral. Ocupa principalmente ambiente terrestre, com hábito fossorial e, eventualmente, o ambiente aquático. Os principais itens de sua dieta são vertebrados fossoriais, como anfisbênias, e aquáticos, como peixes.</descricao>
+	</especie>
+	<especie imgPath="E31">
+		<nome>Jib�ia-vermelha</nome>
+		<descricao>Apresenta cabeça triangular. Tem coloração marrom-avermelhada com círculos e manchas negras pelo corpo. Possui hábito terrestre onde se camufla entre o folhiço e, eventualmente, arborícola, de hábitos diurnos ou noturnos. Alimenta-se de pequenos vertebrados.</descricao>
+	</especie>
+	<especie imgPath="E32">
+		<nome>Sua�uboia</nome>
+		<descricao>Serpente de médio porte que apresenta variação da coloração de acordo com a idade, variando do amarelo ao alaranjado. Apresenta fossetas labiais bem evidentes. Habita florestas e pode ser encontrada durante o dia dormindo enrolada em galhos e bainha de folhas de palmeiras. Muito comum ao longo de cursos d’água e tem como principais itens de sua dieta pequenos vertebrados.</descricao>
+	</especie>
+	<especie imgPath="E33">
+		<nome>Sacaib�ia</nome>
+		<descricao>Apresenta coloração cinza na região dorsal e amarela na ventral e olhos bem desenvolvidos. Possui hábito semi-arborícola e terrestre sendo exclusivamente diurna. Alimentase de pequenos vertebrados. Em situações de perigo, retorce o corpo e vibra a cauda.</descricao>
+	</especie>
+	<especie imgPath="E34">
+		<nome>Cobra dormideira</nome>
+		<descricao>Coloração amarelada com manchas negras no dorso, o que leva em algumas regiões a ser chamada de surucucu-facão. Apresenta o corpo delgado e cauda longa. A cabeça e os olhos são bem destacados do corpo. Indivíduos jovens diferenciam-se dos adultos pela coloração branca na região posterior da cabeça. Possuem hábitos noturnos ou crepusculares. Durante o dia são comumente encontradas dormindo em galhos ou bainhas de folhas de palmeiras, em matas primárias e secundárias (capoeira). Em caso de se sentir em perigo, é comum esta espécie realizar descarga cloacal (defecar). Alimentase de pequenos lagartos e anfíbios.</descricao>
+	</especie>
+	<especie imgPath="E35">
+		<nome>Cobra-verde</nome>
+		<descricao>Serpente de pequeno porte. Apresenta coloração dorsal com gradientes do verde claro ao marrom, com manchas negras em forma de “V”. Possui escamas supralabiais e ventre claro.</descricao>
+	</especie>
+	<especie imgPath="E36">
+		<nome>Cobra-coral verdadeira</nome>
+		<descricao>Serpente peçonhenta de médio porte com dentição proteróglifa. Apresenta três anéis pretos alternadas por anéis vermelhos e brancos. Quando ameaçadas, achatam o corpo, enrolam a cauda, escondem a cabeça e realizam movimentos bruscos. Possui importância médica, pois acidentes com corais verdadeiras são muito perigosos e podem deixar seqüelas graves.</descricao>
+	</especie>
+	<especie imgPath="E37">
+		<nome>Surucucu verdadeira</nome>
+		<descricao>Serpente peçonhenta de grande porte, considerada a maior serpente peçonhenta da região neotropical. Apresenta coloração amarelada com manchas negras em forma de losangos irregulares na região dorsal, que se estendem até a parte lateral do corpo. Possui fosseta loreal e porção terminal da cauda com escamas eriçadas. Tem hábito crepuscular e noturno. Alimenta-se preferencialmente de mamíferos.</descricao>
+	</especie>
+</data>

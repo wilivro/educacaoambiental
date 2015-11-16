@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+    form
+	{	
+	
+		position: relative;
+		left:300px;
+		top:200px;
+		font-family:Arial, Helvetica, sans-serif;
+					
+	}
+	input.text 
+	{
+		border:groove;
+		border-color:#006;
+		font-family:Arial, Helvetica, sans-serif;
+		alignment-adjust:central;
+		text-align:justify
+	}
+	div.formulario 
+	{
+		border:double;
+		position:relative;
+		left:250px;
+		top:50px;
+		width:800px;
+		height:600px;
+		alignment-adjust:central;
+		background-image:url(img/background.png);
+		
+	}
+	
+	div.top1
+	{
+		position:relative;
+		top:20px;
+		left:30px;
+		
+	}
+	div.top2
+	{
+		position:absolute;
+		top:10px;
+		left:550px;
+		
+		
+	}
+	div.label
+	{
+		color:#FFF;
+
+	}
+	h1
+	{
+		position:absolute;
+		top:100px;
+		left:339px;
+		font-family:"Arial Black", Gadget, sans-serif;
+		font-style:italic;
+		color:#FFF;
+		
+	}
+	table
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		border:solid;
+		border-color:#003;
+		color:#003;
+		
+		
+	}
+    

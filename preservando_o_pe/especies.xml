@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<especie imgPath="E01">
+		<nome>Anfisbênia ou Cobra-de-duas-cabeças</nome>
+		<descricao>Nome Científico: Amphisbaena heathi Schmidt, 1936
+Família: Amphisbaenidae.
+Hábito: fossorial (vive em galerias sob o solo).
+Alimentação: não é conhecida.
+Distribuição Geográfica: endêmica do Rio Grande do Norte, Brasil.
+		</descricao>
+	</especie>
+
+
+	<especie imgPath="E02">
+		<nome>Anu-preto</nome>
+		<descricao>Nome Científico: Crotophaga ani Linnaeus, 1758
+Família: Cuculidae.
+Habitat: áreas abertas, regiões cultivadas e locais urbanizados.
+Alimentação: insetos e larvas, incluindo carrapatos presentes na pele de mamíferos.
+Distribuição Geográfica: ocorre em todo o Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E03">
+		<nome>Aratu</nome>
+		<descricao>Nome Científico: Aratus pisonii
+Família: Sesarmidae
+Alimentação: Alimenta-se de animais em decomposição, frutas e plantas do manguezal.
+Distribuição Geográfica: Habita o Atlântico Ocidental.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E04">
+		<nome>Cachorro-do-mato (Raposa)</nome>
+		<descricao>Nome Científico: Cerdocyon thous (Linnaeus, 1766).
+Família: Canidae.
+Habitat: áreas abertas.
+Alimentação: são onívoros, consumindo principalmente pequenos mamíferos, como roedores, e frutas da estação.
+Distribuição Geográfica: América do Sul.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E05">
+		<nome>Camarão</nome>
+		<descricao>Nome Científico: Paneus Braziliensis
+Família: Malacostraca
+Alimentação: Alimenta-se de matéria orgânica, algas e outros animais que conseguem capturar.
+Distribuição Geográfica: rios e oceanos.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E06">
+		<nome>Caranguejeira-de-Bromélia</nome>
+		<descricao>Nome Científico: Pachistopelma rufonigrum Pocock, 1901.
+Família: Theraphosidae.
+Habitat: endêmicas de bromélias-tanque dos gêneros Aechmea e Hohenbergia.
+Alimentação: gafanhotos de bromélias.
+Distribuição Geográfica: Nordeste do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E07">
+		<nome>Caranguejo Chama-maré</nome>
+		<descricao>Nome Científico: Uca pugnax
+Família: Ocypodidae
+Alimentação: Alimenta-se de animais em decomposição, frutas e plantas do manguezal.
+Distribuição Geográfica: Costumam viver em manguezais e na zona entre marés, de praias arenosas protegidas, de baías e de estuário na costa do Atlântico.
+		</descricao>
+	</especie>
+	
+	<especie imgPath="E08">
+		<nome>Chorozinho-de-papo-preto</nome>
+		<descricao>Nome Científico: Herpsilochmus pectoralis Sclater, 1857
+Família: Thamnophilidae.
+Habitat: matas secas preservadas.
+Alimentação: insetos.
+Distribuição Geográfica: endêmica da Mata Atlântica. Ocorre na Bahia, Maranhão, Sergipe e Rio Grande do Norte.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E09">
+		<nome>Cobra verde</nome>
+		<descricao>Nome científico: Leptophis ahaetulla (Linnaeus, 1758).
+Família: Colubridae
+Hábito: diurno, comumente vista nos galhos das árvores e arbustos.
+Alimentação: Principalmente sapos, lagartos, gafanhotos, aves e ovos de aves.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E10">
+		<nome>Coral Verdadeira</nome>
+		<descricao>Nome Científico: Micrurus ibiboboca (Merrem, 1820).
+Família: Elapidae.
+Hábito: semi-fossorial.
+Alimentação: anfisbênias e outras serpentes.
+Distribuição Geográfica: Mata Atlântica e Caatinga do Nordeste, do Maranhão à Bahia.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E11">
+		<nome>Coruja-buraqueira</nome>
+		<descricao>Nome Científico: Athene cunicularia (Molina, 1782).
+Família: Strigidae.
+Habitat: áreas abertas como campos arenosos, dunas, pastos, áreas urbanas, borda de matas e áreas desérticas. Alimentação: alimentam-se de uma grande variedade de presas como insetos, aracnídeos e pequenos roedores, morcegos, répteis, anfíbios e aves. Distribuição Geográfica: apresentam ampla distribuição geográfica, do norte do Canadá até a Terra do Fogo, incluindo boa parte do Brasil. 
+		</descricao>
+	</especie>
+
+	<especie imgPath="E12">
+		<nome>Escorpião-de-Bromélia</nome>
+		<descricao>Nome Científico: Tityus neglectus Mello-Leitão, 1932.
+Família: Buthidae.
+Habitat: endêmicas de bromélias-tanque dos gêneros Aechmea e Hohenbergia.
+Alimentação: não é conhecida.
+Distribuição Geográfica: Nordeste do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E13">
+		<nome>Figuinha-do-mangue</nome>
+		<descricao>Nome Científico: Conirostrum bicolor
+Família: Thraupidae
+Alimentação: Solitário ou aos pares, procura insetos vasculhando ativamente a folhagem.
+Distribuição Geográfica: No Brasil Oriental, a espécie ocorre em manguezais; mas, ao longo do Rio Amazonas, habita a mata ripária ribeirinha nas margens dos rios ou em ilhas fluviais.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E14">
+		<nome>Garça-vaqueira ou Garça-boieira</nome>
+		<descricao>Nome Científico: Bubulcus ibis
+Família: Ardeidae
+Alimentação: A Garça-vaqueira se alimenta de uma vasta gama de presas, particulamente insetos, principalmente gafanhotos, grilos e moscas (adultos e larvas), e mariposas, bem como aranhas, sapos e minhocas.
+Distribuição Geográfica: Esta espécie tem uma grande area de ocupação, com uma extensão global estimada de ocorrência de 10 milhões de quilômetros quadrados.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E15">
+		<nome>Guaiamu (Guaiamum)</nome>
+		<descricao>Nome Científico: Cardisoma guanhumi
+Família: Gecarcinidae
+Distribuição Geográfica: encontrado do estado da Flórida e no nordeste e sudeste do Brasil.
+
+		</descricao>
+	</especie>
+	
+	<especie imgPath="E16">
+		<nome>Iguana ou Camaleão</nome>
+		<descricao>Nome Científico: Iguana iguana Linnaeus, 1748.
+Família: Iguanidae
+Hábito: arbóreo.
+Alimentação: folhas verdes, frutos e insetos.
+Distribuição Geográfica: do México ao Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E17">
+		<nome>Lagartinho-de-folhiço</nome>
+		<descricao>Nome Científico: Coleodactylus natalensis Freire, 1999.
+Família: Sphaerodactylidae.
+Habitat: vive exclusivamente entre as folhas no chão de matas preservadas.
+Alimentação: pequenos invertebrados de folhiço, especialmente isópodos, aranhas, grilos e colêmbolos.
+Distribuição Geográfica: endêmico de remanescentes de Mata Atlântica do Rio Grande do Norte, Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E18">
+		<nome>Lagarto-de-cauda-azul</nome>
+		<descricao>Nome Científico: Micrablepharus maximiliani Reinhardt e Lü tken, 1862.
+Família: Gymnophtalmidae.
+Hábitat: formações abertas com climas mais amenos.
+Alimentação: não é conhecida.
+Distribuição Geográfica: do Maranhão ao Paraguai.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E19">
+		<nome>Lagarto-de-folhiço</nome>
+		<descricao>Nome Científico: Dryadosaura nordestina Rodrigues, Freire, Pellegrino e Sites Jr., 2005.
+Família: Gymnophtalmidae.
+Hábito: fossorial, vivendo também entre a serrapilheira no solo de matas preservadas.
+Alimentação: não é conhecida.
+Distribuição Geográfica: endêmico de remanescentes de Mata Atlântica do Nordeste do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E20">
+		<nome>Martim-pescador-verde</nome>
+		<descricao>Nome Científico: Chloroceryle amazona
+Família: Cerylidae
+Alimentação: se alimentam de peixes e invertebrads aquáticos
+Distribuição Geográfica: presente do México à Argentina.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E21">
+		<nome>Pitiguari</nome>
+		<descricao>Nome Científico: Cyclarhis gujanensis (Gmelin, 1789)
+Família: Vireonidae.
+Habitat: matas secundárias e bordas de mata.
+Alimentação: algumas frutas, insetos e suas larvas e pequenos lagartos e anfíbios.
+Distribuição Geográfica: do leste do México ao centro da Argentina, em todas as regiões do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E22">
+		<nome>Rapazinho-dos-velhos</nome>
+		<descricao>Nome Científico: Nystalus maculatus (Gmelin, 1788).
+Família: Bucconidae.
+Habitat: Caatinga e matas secas e baixas.
+Alimentação: artrópodes (insetos, aranhas e escorpiões).
+Distribuição Geográfica: Nordeste do Brasil ao Paraguai, norte da Argentina e Bolívia.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E23">
+		<nome>Sagüi (Soim)</nome>
+		<descricao>Nome Científico: Callithrix jacchus (Linnaeus, 1758).
+Família: Callithrichidae.
+Hábito: arborícola.
+Alimentação: são onívoros, consumindo principalmente insetos, gomas de árvores e frutas.
+Distribuição Geográfica: Nordeste do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E24">
+		<nome>Sapo-cururu</nome>
+		<descricao>Nome científico: Rhinella jimi (Stevaux, 2002).
+Família: Bufonidae.
+Hábito: terrestre.
+Alimentação: desde insetos a pequenos vertebrados, como camundongos e pequenas serpentes.
+Distribuição geográfica: Nordeste do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E25">
+		<nome> Saracura-do-mangue</nome>
+		<descricao>Nome Científico: Aramides Mangle
+Família: Rallidae
+Alimentação: pequenos peixes, crustáceos, insetos e larvas.
+Distribuição Geográfica: endêmica do Brasil.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E26">
+		<nome>Siri-Azul ( siri-tinga ou siri )</nome>
+		<descricao>Nome Científico: Callinectes sapidus
+Família: Portunidae
+Alimentação: O siri azul é omnívoro e consome tipicamente bivalves, anelídeos, peixes e quase todo o outro artigo que puderem encontrar, incluindo cadáveres.
+Distribuição Geográfica: Encontrado nas águas costeiras do Oceano Atlântico e Golfo do México.
+		</descricao>
+	</especie>
+	
+	<especie imgPath="E03">
+		<nome>Aratu</nome>
+		<descricao>Nome CientÃ­co: Aratus pisonii
+FamÃ­la: Sesarmidae
+AlimentaÃ§Ã£o: Alimenta-se de animais em decomposiÃ§Ã£o, frutas e plantas do manguezal.
+DistribuiÃ§Ã£o GeogrÃ³ca: Habita o AtlÃ¢ntico Ocidental.
+		</descricao>
+	</especie>
+	
+	<especie imgPath="E07">
+		<nome>Caranguejo Chama-marÃ©</nome>
+		<descricao>Nome CientÃ­co: Uca pugnax
+FamÃ­lia: Ocypodidae
+AlimentaÃ§Ã£o: Alimenta-se de animais em decomposiÃ§Ã£o, frutas e plantas do manguezal.
+DistribuiÃ§Ã£o GeogrÃ¡fica: Costumam viver em manguezais e na zona entre marÃ©s de praias arenosas protegidas, de baÃ­as e de estuÃ¡rio na costa do AtlÃ¢ntico.
+		</descricao>
+	</especie>
+
+	<especie imgPath="E18">
+		<nome>Lagarto-de-cauda-azul</nome>
+		<descricao>Nome CientÃ­fico: Micrablepharus maximiliani Reinhardt e  LÃ¼ tken, 1862.
+FamÃ­lia: Gymnophtalmidae.
+Habitat: formaÃ§Ãµes abertas com climas mais amenos.
+AlimentaÃ§Ã£o: nÃ£o Ã© conhecida.
+DistribuiÃ§Ã£o GeogrÃ¡fica: do MaranhÃ£o ao Paraguai.
+		</descricao>
+	</especie>
+	
+	<especie imgPath="E01">
+		<nome>AnfisbÃªnia ou Cobra-de-duas-cabeÃ§as</nome>
+		<descricao>Nome CientÃ­fico: Amphisbaena heathi Schmidt, 1936.
+FamÃ­lia: Amphisbaenidae.
+HÃ¡bito: fossorial (vive em galerias sob o solo).
+AlimentaÃ§Ã£o: nÃ£o Ã© conhecida.
+DistribuiÃ§Ã£o GeogrÃ¡gfica: endÃªmica do Rio Grande do Norte, Brasil.
+		</descricao>
+	</especie>
+	
+
+	<especie imgPath="E20">
+		<nome>Martim-pescador-verde</nome>
+		<descricao>Nome CientÃ­fico: Chloroceryle amazona
+FamÃ­lia: Cerylidae
+AlimentaÃ§Ã£o: se alimentam de peixes e invertebrads aquÃ¡ticos
+DistribuiÃ§Ã£o GeogrÃ¡fica: presente do MÃ©xico Ã  Argentina.
+		</descricao>
+	</especie>
+
+</data>
